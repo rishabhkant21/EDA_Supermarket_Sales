@@ -40,4 +40,4 @@ Contributions, suggestions, and improvements are welcome! Please open an issue o
 
 ## Contact
 For questions or feedback, please contact:  
-Your Name — [rishabhkantmisral@gmail.com](mailto:rishabhkantmisra@gmail.com)
+Rishabh Kant — [rishabhkantmisral@gmail.com](mailto:rishabhkantmisra@gmail.com)
